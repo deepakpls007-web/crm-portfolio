@@ -4,6 +4,8 @@ A recruiter-facing case study of **MyCG HQ CRM**, with a standalone interactive 
 
 **[Open the case study and demo](https://deepakpls007-web.github.io/crm-portfolio/)** · [Presenter's GitHub profile](https://github.com/deepakpls007-web)
 
+![Fictional-data CRM demo with pipeline and summary cards](docs/demo-preview.png)
+
 ## What to explore
 
 1. Read the case study for the use case, system boundaries, and engineering decisions.

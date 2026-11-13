@@ -19,3 +19,5 @@ Verified through the interface:
 Static checks included JavaScript syntax validation and a targeted scan for known confidential handover identifiers and common credential formats in the newly authored public content. No matches were found in that scan. This does not constitute a comprehensive security audit.
 
 The private application was imported, not deployed or connected to live services. Its production features were not tested as part of this portfolio publishing task.
+
+Final checks also verified immediate demo reset, the mobile case-study and modal layouts at 390px, and the desktop workspace at 1280px. The browser console reported no errors during the final check. The demo was reset to its initial fictional records after testing.
